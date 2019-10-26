@@ -1,0 +1,18 @@
+{
+  "name": "nodejsserverapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node": "8.4.1",
+    "ts-node-dev": "1.0.0-pre.43",
+    "typescript": "3.4.3"
+  }
+}

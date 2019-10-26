@@ -1,0 +1,4 @@
+# ignore typescript compiler output
+dist/
+node_modules/
+
